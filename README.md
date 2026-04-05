@@ -153,8 +153,7 @@ Walmart-Sales-Analysis/
 ## 🔗 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/akhilesh-yadav88/
-- **Portfolio:** https://yaadavakhilesh.github.io/
-- **GitHub:** https://github.com/YaadavAkhilesh
+- **Portfolio:** https://akhileshyadav8.github.io/
 - **Email:** yadavakhil766@gmail.com
 
 ---
